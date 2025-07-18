@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
+title: Capstone Project ROS Nav 
+description: Autonomous Navigation ROS
 img: assets/img/9.jpg
 importance: 2
 category: personal
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
