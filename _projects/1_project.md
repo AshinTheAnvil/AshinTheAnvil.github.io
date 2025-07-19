@@ -14,7 +14,7 @@ The thesis is highly novel in terms of research methodology where the concept of
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/evogif.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/evofin.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -27,7 +27,7 @@ The thesis is highly novel in terms of research methodology where the concept of
   {% include figure.liquid loading="eager" path="assets/img/grp1.png" title="graph metric" class="img-fluid rounded z-depth-1 same-size-img" %}
 </div>
 <div class="col-sm mt-3 mt-md-0">
-  {% include figure.liquid loading="eager" path="assets/img/grp2.png" title="graph" class="img-fluid rounded z-depth-1 same-size-img" %}
+  {% include figure.liquid loading="eager" path="assets/img/graph2.png" title="graph" class="img-fluid rounded z-depth-1 same-size-img" %}
 </div>
 
     

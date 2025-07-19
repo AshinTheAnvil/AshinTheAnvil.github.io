@@ -13,7 +13,7 @@ giscus_comments: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/spot1.gif" title="Live demo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/spotani.gif" title="Live demo" class="img-fluid rounded z-depth-1" %}
     </div>
     
     
