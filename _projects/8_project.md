@@ -5,6 +5,7 @@ description: Autonomous Navigation ROS
 img: #assets/img/9.jpg
 importance: 2
 category: personal
+redirect: https://github.com/AshinTheAnvil/ROS_AutoNav/tree/main/PR5
 giscus_comments: false
 ---
 

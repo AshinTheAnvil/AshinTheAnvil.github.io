@@ -19,6 +19,6 @@ giscus_comments: false
     
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Spot at Innovation Garage, Vodafone  Düsseldorf.
 </div>
 

@@ -33,21 +33,19 @@ The thesis is highly novel in terms of research methodology where the concept of
     
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+   The above metric graphs are related to episode length and reward value and on the right side shows the 2D trajectory of robot in eaching goal position.
 </div>
 
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/hrl.png" title="hrl" class="img-fluid rounded z-depth-1" %}
-    </div>
+    
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/evo2gif.gif" title="evonav" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    evoBOT in Autonomous Navigation. Red cones are target location to reach.
 </div>
 
 

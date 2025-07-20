@@ -9,7 +9,7 @@ profile:
   image: IMG_4539.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Dortmund, Germany - 44227</p>
+    <p>Dortmund, Germany-44227</p>
 
 
 social: true # includes social icons at the bottom of the page
@@ -26,7 +26,7 @@ latest_posts:
 ---
 Ashin — Robotics Engineer
 
-With a Master’s in Automation & Robotics from TU Dortmund and a Bachelor’s in Robotics & Automation from PSG College of Technology, I’m a robotics engineer who gets things done. My work at Fraunhofer IML involved deploying deep reinforcement learning on evoBOT, while at Vodafone GmbH, I tackled digital twins and Sim2Real challenges with Boston Dynamics’ Spot and Unitree’s humanoid robots.
+With a Master’s in Automation & Robotics from [**TU Dortmund**](https://www.tu-dortmund.de/) and a Bachelor’s in Robotics & Automation from [**PSG College of Technology**](https://www.psgtech.edu/), I’m a robotics engineer who gets things done. My work at [**Fraunhofer IML**](https://www.iml.fraunhofer.de/) involved deploying deep reinforcement learning on evoBOT, while at [**Vodafone GmbH**](https://www.vodafone.de/), I tackled digital twins and Sim2Real challenges with Boston Dynamics’ Spot and Unitree’s humanoid robots.
 
 My master’s thesis on hierarchical reinforcement learning for agile loco-manipulation, completed in partnership with Fraunhofer IML, reflects my focus on pushing robot learning into real-world applications. Early on, my bachelor’s thesis — done with IIT Delhi — explored simulation and control of robot manipulators in PyBullet, laying a technical foundation.
 

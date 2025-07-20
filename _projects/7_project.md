@@ -15,6 +15,6 @@ related_publications: false
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Platoon of three cars making a formation and merging to follow the master and driven cooperatively in CARLA
 </div>
 
