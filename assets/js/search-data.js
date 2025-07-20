@@ -39,13 +39,13 @@ ninja.data = [{
           },
         },{id: "post-fun-interview-with-vodafone-düsseldorf",
         
-          title: "Fun Interview with Vodafone Düsseldorf",
+          title: 'Fun Interview with Vodafone Düsseldorf <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "A brief interview on favourite food of people",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.open("https://www.instagram.com/p/DJ5sO2LsGEG/", "_blank");
           
         },
       },{id: "post-cooperative-automated-driving",
@@ -70,8 +70,8 @@ ninja.data = [{
           section: "News",},{id: "news-successfully-passed-the-master-s-thesis-rst-tu-dortmund",
           title: 'Successfully passed the master’s thesis @ RST, TU Dortmund',
           description: "",
-          section: "News",},{id: "news-completed-robotics-internship-vodafone-düsseldorf-innovation-garage",
-          title: 'Completed Robotics Internship @ Vodafone Düsseldorf, Innovation Garage',
+          section: "News",},{id: "news-completed-robotics-internship-innovation-garage-vodafone-düsseldorf",
+          title: 'Completed Robotics Internship @ Innovation Garage, Vodafone Düsseldorf',
           description: "",
           section: "News",},{id: "projects-master-thesis",
           title: 'Master Thesis',
