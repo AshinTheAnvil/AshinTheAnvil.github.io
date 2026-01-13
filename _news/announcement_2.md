@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded Bachelor of Engineering degree in Robotics and Automation, PSG College of Technology, Anna University
+Awarded Bachelor of Engineering degree in Robotics and Automation, PSG College of Technology
