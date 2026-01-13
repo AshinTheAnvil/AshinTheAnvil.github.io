@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2021-07-31 #07:59:00-0400
+date: 2021-04-30 #07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Awarded Bachelor's degree in Robotics and Automation, PSG College of Technology, Anna University.
+Awarded Bachelor of Engineering degree in Robotics and Automation, PSG College of Technology, Anna University

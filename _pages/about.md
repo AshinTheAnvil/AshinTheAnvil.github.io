@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: TU Dortmund | Fraunhofer IML | Vodafone gmbh | PSG College of Technology #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: TU Dortmund | PSG College of Technology | Fraunhofer IML | Vodafone GmbH #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: IMG_4539.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Dortmund, Germany-44227</p>
+    <p>Dortmund, Germany</p>
 
 
 social: true # includes social icons at the bottom of the page
@@ -20,20 +20,23 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 Ashin — Robotics Engineer
 
-With a Master’s in Automation & Robotics from [**TU Dortmund**](https://www.tu-dortmund.de/) and a Bachelor’s in Robotics & Automation from [**PSG College of Technology**](https://www.psgtech.edu/), I’m a robotics engineer who gets things done. My work at [**Fraunhofer IML**](https://www.iml.fraunhofer.de/) involved deploying deep reinforcement learning on evoBOT, while at [**Vodafone GmbH**](https://www.vodafone.de/), I tackled digital twins and Sim2Real challenges with Boston Dynamics’ Spot and Unitree’s humanoid robots.
+I hold a Master’s degree in **[Automation & Robotics ](https://etit.tu-dortmund.de/en/studies-and-teaching/degree-programs/master-ar-1/)**from TU Dortmund University and a Bachelor’s degree in Robotics & Automation from PSG College of Technology. I specialized in developing learning-based robotic systems that transition from simulation to real-world deployment.
 
-My master’s thesis on hierarchical reinforcement learning for agile loco-manipulation, completed in partnership with Fraunhofer IML, reflects my focus on pushing robot learning into real-world applications. Early on, my bachelor’s thesis — done with IIT Delhi — explored simulation and control of robot manipulators in PyBullet, laying a technical foundation.
+During my work at Fraunhofer IML
+, I applied deep reinforcement learning to the evoBOT, focusing on autonomous navigation and manipulation under real-world constraints. At Vodafone GmbH
+, I worked on digital twins and Sim2Real pipelines, using platforms such as Boston Dynamics’ Spot and Unitree humanoid robots.
 
-Since childhood, I’ve been driven to mimic and improve human tasks through robotics, cutting down errors and making everyday life smarter.
-When I’m not building robots, I’m diving into PC gaming — mainly RPGs and action-adventure titles like Cyberpunk 2077, GTA, Baldur’s Gate 3, Elden Ring and plenty more.
+My master’s thesis, completed in collaboration with Fraunhofer IML, explored hierarchical reinforcement learning for agile loco-manipulation, with an emphasis on robustness and autonomy in complex robotic systems. Beyond research, I actively work with ROS 2 and contribute to open-source robotics projects on GitHub, with a strong interest in reproducible, well-engineered robotic software.
 
-I’m currently seeking an entry-level position as an AI Robotics Engineer or Robotics Engineer, ready to bring my skills to the front lines of innovation.
+Driven by a long-standing interest in replicating and enhancing human capabilities through robotics, I aim to build systems that reduce error, improve efficiency, and operate reliably in real environments. Outside the lab, I’m an avid PC gamer, with a soft spot for RPG and action-adventure titles such as The Witcher 3, Cyberpunk 2077, and Baldur’s Gate 3.
+
+I am currently seeking an entry-level position as an AI Robotics Engineer or Robotics Engineer, where I can contribute to cutting-edge robotic systems and continue pushing intelligent autonomy into practical use.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

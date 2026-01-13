@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed Robotics Internship @ Innovation Garage, Vodafone Düsseldorf
+Completed Robotics Internship @ Vodafone GmbH, Düsseldorf

@@ -8,8 +8,16 @@ category: academic & work
 related_publications: false
 ---
 
-This was the master thesis project carried oout at [**Regelungstechnik, TU Dortmund**](https://rst.etit.tu-dortmund.de/) and at the (then) department of KI und Autonome system, [**Fraunhofer IML**](https://www.iml.fraunhofer.de/). This was a solo thesis research carrried out under the supervision of [**Prof. Dr. Frank Hoffmann**](https://rst.etit.tu-dortmund.de/lehrstuhl/team/hoffmann/) and [**Phd, Mr. Julian Eßer**](https://www.iml.fraunhofer.de/de/abteilungen/b1/informationslogistik_und_assistenzsysteme/team_digitalisierung/unser-team-digitalisierung/julian-esser.html).
-The thesis is highly novel in terms of research methodology where the concept of hierarchy is used in the end to end learning of robot navigation which is further extended to loco-manipulation. The image below represents the  [**evoBOT**](https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/iot-and-embedded-systems/evobot.html) in my Deep Reinforcment learning based pipelin in Nvidia GPU and simulation Isaac sim. This work was part of OmniIsaacGymEnvs(IsaacLAb). The goal of the thesis was to make a fully autonomous solution where the evoBOT learns to pick and place an object from one point to another point using only IMU onboard sensor with no vision data. This marks a highly unique and novel research experiment as the robot itself is a highly complex dynamics difficult to model. Further more the researcg explores on the Hierarchy concept of two policies of low and high level neural networks to accomplish the goal.
+## Master’s Thesis — Hierarchical Deep Reinforcement Learning for Loco-Manipulation
+
+This master’s thesis was conducted at **[Regelungstechnik, TU Dortmund University](https://rst.etit.tu-dortmund.de/)** and at the former Department of **AI and Autonomous Systems, [Fraunhofer IML](https://www.iml.fraunhofer.de/)**. The research was carried out as an independent thesis under the supervision of **[Prof. Dr. Frank Hoffmann](https://rst.etit.tu-dortmund.de/lehrstuhl/team/hoffmann/)** and **[Dr. Julian Eßer](https://www.iml.fraunhofer.de/de/abteilungen/b1/informationslogistik_und_assistenzsysteme/team_digitalisierung/unser-team-digitalisierung/julian-esser.html)**.
+
+The thesis introduces a **novel hierarchical deep reinforcement learning methodology** for end-to-end robot learning. A two-level policy architecture—comprising high-level decision-making and low-level control policies—is employed to enable autonomous robot navigation and is further extended to **loco-manipulation** tasks.
+
+The experimental platform is the **[evoBOT](https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/iot-and-embedded-systems/evobot.html)**, a robot characterized by highly complex and difficult-to-model dynamics. Training was performed using a GPU-accelerated deep reinforcement learning pipeline in **NVIDIA Isaac Sim**, as part of **OmniIsaacGymEnvs (Isaac Lab)**.
+
+The primary objective of the thesis was to develop a **fully autonomous pick-and-place solution** in which the evoBOT learns to transport an object between two locations using **only onboard IMU data**, without any vision or external sensing. This sensing constraint, combined with the robot’s complex dynamics, makes the problem particularly challenging and distinguishes the work from conventional vision-based approaches. The results demonstrate that hierarchical policy learning enables robust coordination of navigation and manipulation behaviors under these constraints.
+
 
 
 <div class="row">
