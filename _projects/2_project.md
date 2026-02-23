@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Digital twin of Vodafone-Spot Robot
-description: Digital shadow of Boston Dynamics quadruped robot, Spot in Isaac sim 
+title: Digital Twin of Vodafone-Spot Robot
+description: Digital Twin of Boston Dynamics quadruped robot, Spot in Isaac sim 
 img: assets/img/spot.jpeg
 importance: 2
 category: personal

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded Master of Science degree in Automation and Robotics, Technische Universität Dortmund
+Awarded Master of Science in Automation and Robotics, Technische Universität Dortmund

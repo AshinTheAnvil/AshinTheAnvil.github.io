@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Master's Semester Project(Mini thesis)
+title: Master's Semester Project
 description: Cooperative Automated Driving
 img: assets/img/cadim.png
 importance: 2

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded Bachelor of Engineering degree in Robotics and Automation, PSG College of Technology 
+Awarded Bachelor of Engineering in Robotics and Automation, PSG College of Technology 
