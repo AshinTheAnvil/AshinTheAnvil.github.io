@@ -24,7 +24,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Ashin — Robotics Engineer
 
 I hold a Master’s degree in **[Automation & Robotics ](https://etit.tu-dortmund.de/en/studies-and-teaching/degree-programs/master-ar-1/)**from TU Dortmund University and a Bachelor’s degree in Robotics & Automation from PSG College of Technology. I specialized in developing learning-based robotic systems that transition from simulation to real-world deployment.
 
