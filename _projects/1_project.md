@@ -13,7 +13,8 @@ related_publications: false
 This master’s thesis was conducted at **[Regelungstechnik, TU Dortmund University](https://rst.etit.tu-dortmund.de/)** and at the former Department of **AI and Autonomous Systems, [Fraunhofer IML](https://www.iml.fraunhofer.de/)**. 
 <!-- The research was carried out as an independent thesis under the supervision of **[Prof. Dr. Frank Hoffmann](https://rst.etit.tu-dortmund.de/lehrstuhl/team/hoffmann/)** and **[Dr. Julian Eßer](https://www.iml.fraunhofer.de/de/abteilungen/b1/informationslogistik_und_assistenzsysteme/team_digitalisierung/unser-team-digitalisierung/julian-esser.html)**. -->
 
-The thesis introduces a **novel hierarchical deep reinforcement learning methodology** for end-to-end robot learning. A two-level policy architecture—comprising high-level decision-making and low-level control policies—is employed to enable autonomous robot navigation and is further extended to **loco-manipulation** tasks.
+The thesis introduces a **novel hierarchical deep reinforcement learning methodology** for end-to-end robot learning. 
+<!-- A two-level policy architecture—comprising high-level decision-making and low-level control policies—is employed to enable autonomous robot navigation and is further extended to **loco-manipulation** tasks. -->
 
 The experimental platform is the **[evoBOT](https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/iot-and-embedded-systems/evobot.html)**, a robot characterized by highly complex and difficult-to-model dynamics. Training was performed using a GPU-accelerated deep reinforcement learning pipeline in **NVIDIA Isaac Sim**, as part of **OmniIsaacGymEnvs (Isaac Lab)**.
 

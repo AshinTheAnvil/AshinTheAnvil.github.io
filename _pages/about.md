@@ -4,12 +4,12 @@ title: About
 permalink: /
 subtitle: TU Dortmund | PSG College of Technology | Fraunhofer IML | Vodafone GmbH #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
-profile:
-  align: right
-  image: IMG_4539.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Dortmund, Germany</p>
+# profile:
+#   align: right
+#   image: IMG_4539.png
+#   image_circular: false # crops the image to make it circular
+#   more_info: >
+#     <p>Dortmund, Germany</p>
 
 
 social: true # includes social icons at the bottom of the page
@@ -35,7 +35,7 @@ My master’s thesis, completed in collaboration with Fraunhofer IML, explored h
 
 Driven by a long-standing interest in replicating and enhancing human capabilities through robotics, I aim to build systems that reduce error, improve efficiency, and operate reliably in real environments. Outside the lab, I’m an avid PC gamer, with a soft spot for RPG and action-adventure titles such as The Witcher 3, Cyberpunk 2077, and Baldur’s Gate 3.
 
-I am currently seeking an entry-level position as an AI Robotics Engineer or Robotics Engineer, where I can contribute to cutting-edge robotic systems and continue pushing intelligent autonomy into practical use.
+<!-- I am currently seeking an entry-level position as an AI Robotics Engineer or Robotics Engineer, where I can contribute to cutting-edge robotic systems and continue pushing intelligent autonomy into practical use. -->
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
